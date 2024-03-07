@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Lei Li
+title: Grace Chen Zhou
 
 # Your name to show in the footer
-author: Lei Li
+author: Grace C. Zhou
 
 # --- List of links in the navigation bar --- #
 
@@ -17,8 +17,8 @@ navbar-links:
   Main: "index"
   Projects: "projects"
   Publications: "publications"
-  Presentations: "presentations"
-  Curriculum Vita: "LeiLi_CV.pdf"
+  #Presentations: "presentations"
+  #Curriculum Vita: "LeiLi_CV.pdf"
   #People: "people"
 
 # --- Logo --- #
@@ -40,10 +40,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "lei.li@stjude.org"
+  email: "grace.zhou@stjude.org"
 #  facebook: deanattali
-  github: LeiLi-Uchicago
-  twitter: leilioxford
+  github: GraceChenZhou
+#  twitter: leilioxford
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -59,9 +59,9 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0002-8828-5199
-  google-scholar: citations?user=3qt2VoAAAAAJ&hl=en
-  linkedin: lei-li-46713b78
+  ORCID: 0000-0002-4084-9100
+  #google-scholar: citations?user=3qt2VoAAAAAJ&hl=en
+  #linkedin: lei-li-46713b78
 #  telephone: +1
 
 # If you want to show a link to an RSS in the footer, add the site description here.
