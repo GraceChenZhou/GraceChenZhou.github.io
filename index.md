@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Lei Li - Lead Bioinformatics Research Scientist
-subtitle: Center for Applied Bioinformatics, <br> St. Jude Children's Research Hospital
+title:  Grace Chen Zhou - Biostatistician
+subtitle: Department of Biostatistics, <br> St. Jude Children's Research Hospital
 cover-img:
   - "./img/sj.jpeg"
 ---
@@ -13,44 +13,20 @@ cover-img:
 }
 </style>
 
-## Activities
-
-<p>
- <a class="twitter-timeline"
- href="https://twitter.com/leilioxford"
- data-widget-id="340639437736255489"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@leilioxford)</a>
- <script>
-						!function(d, s, id) {
-							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
-									.test(d.location) ? 'http' : 'https';
-							if (!d.getElementById(id)) {
-								js = d.createElement(s);
-								js.id = id;
-								js.src = p
-										+ "://platform.twitter.com/widgets.js";
-								fjs.parentNode.insertBefore(js, fjs);
-							}
-						}(document, "script", "twitter-wjs");
- </script>
-</p>
-
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-02/2023 – Present 		<br>
-**Lead Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
+08/2022 – Present 		<br>
+**Biostatistician**, Department of Biostatistics, **St. Jude Children's Research Hospital**
 
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-12/2022 – 02/2023 		<br>
-**Senior Bioinformatics Research Scientist**, Center for Applied Bioinformatics, **St. Jude Children's Research Hospital**
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-10/2022 – 12/2022 		<br>
-**Assistant Professor of Bioinformatics Research in Pediatrics**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
+08/2020 – 03/2022 		<br>
+**Research assistant**, , **Cincinnati Children's Hospital Medical Center**
 
 <img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2021 – 10/2022 		<br>
-**Senior Bioinformatics Analyst**, Gale and Ira Drukier Institute for Children's Health, **Weill Cornell Medicine**
+**Senior Bioinformatics Analyst**, , **P&G**
 
 <img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 03/2019 – 08/2021 	<br>
