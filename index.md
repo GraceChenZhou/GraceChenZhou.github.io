@@ -3,7 +3,7 @@ layout: page
 title:  Grace Chen Zhou - Biostatistician
 subtitle: Department of Biostatistics, <br> St. Jude Children's Research Hospital
 cover-img:
-  - "./img/sj.jpeg"
+  - "./img/zoom-bgs-campus-sequins-mural2.jpg"
 ---
 
 <style type="text/css">
