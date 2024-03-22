@@ -16,54 +16,54 @@ cover-img:
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2022 – Present 		<br>
-**Biostatistician**, Department of Biostatistics, **St. Jude Children's Research Hospital**
+**Biostatistician**, **St. Jude Children's Research Hospital, Memphis, TN**
 
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 
-<img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2020 – 03/2022 		<br>
-**Research assistant**, , **Cincinnati Children's Hospital Medical Center**
+<img src="../../img/cchmc.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+07/2020 – 03/2022 		<br>
+**Research assistant**,**Cincinnati Children's Hospital Medical Center, Cincinnati, OH**
 
-<img src="../../img/cornell.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2021 – 10/2022 		<br>
-**Senior Bioinformatics Analyst**, , **P&G**
+<img src="../../img/p&g.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+05/2017 – 06/2020 		<br>
+**Data Informatics Intern**, **P&G, Cincinnati, OH**
 
-<img src="../../img/uchicago.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-03/2019 – 08/2021 	<br>
-**Postdoctoral scholar**, Department of Medicine, **University of Chicago**	<br>&nbsp; &nbsp; 
+<img src="../../img/parexel.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+03/2015 – 06/2016 	<br>
+**Statistical Programmer**, **Parexel International, Shanghai, China**	<br>&nbsp; &nbsp; 
 
-<img src="../../img/msu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-08/2015 – 08/2018 	<br>
-**Postdoctoral scholar**, College of Veterinary Medicine, **Missssippi State University**
+<img src="../../img/medpace.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+05/2014 – 12/2014 	<br>
+**Statistical Analyst**, **Medpace, Cincinnati, OH**
 
-<img src="../../img/miami.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-04/2013 - 06/2014 	<br>
-**Visiting scholar**, Department of Botany, **Miami University**	<br>&nbsp; &nbsp; 
+<img src="../../img/southwest.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+09/2012 - 12/2012 	<br>
+**Projects & Reporting Intern**, **Southwest Airlines, Dallas, TX**	<br>&nbsp; &nbsp; 
 
 ## RESEARCH INTERESTS
-- Computational methods of single cell sequencing data 
-- Single cell sequencing data interpretation and visualization
-- Genetics and Evolution methods and their application
-- Biological/medical data interpretation and visualization
-- Bio-statistical methods and their application
+- Bayesian statistics
+- Longitudinal data analysis
+- Survival analysis
+- Joint modelling of longitudinal and survival data
+- Data interpretation & visualization (R markdown, R shiny)
 
 
 ## EDUCATION
 
-<img src="../../img/xmu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Xiamen University**, Xiamen, China, 2011 - 2015 <br>
+<img src="../../img/uc.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+**University of Cincinnati**, Cincinnati, OH, 2016 - 2022 <br>
 **Ph.D.** 
-_System Engineering/Bioinformatics_	<br>&nbsp; &nbsp; 
+_Statistics_	<br>&nbsp; &nbsp; 
 
-<img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Xi’an Jiaotong University**, Xi’an, China, 2009 - 2011 <br>
+<img src="../../img/utd.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+**University of Texas at Dallas**, Dallas, TX, 2011 - 2013 <br>
 **M.S.** 
-_Control Engineering/Natural Language Processing_	<br>&nbsp; &nbsp; 
+_Statistics_	<br>&nbsp; &nbsp; 
 
-<img src="../../img/xjtu.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Xi’an Jiaotong University**, Xi’an, China, 2005 - 2009 <br>
-**B.S.** 
-_Automation_	<br> &nbsp; &nbsp; 
+<img src="../../img/liaodong.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+**Eastern Liaoning University**, Dandong, China, 2007 - 2011 <br>
+**M.S.** 
+_Statistics_	<br>&nbsp; &nbsp; 
 
 ## CONTACT
 
@@ -73,14 +73,9 @@ Advanced Research Center - St. Jude Children's Research Hospital
 Memphis, TN, 38105
 USA
 
-Email: lei.li[at]stjude.org or leilioxford[at]gmail.com
+Email: grace.zhou[at]stjude.org
 ```
 
-## RECENT PROJECTS
-<img src="../../img/HTOreader.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [HTOreader](https://github.com/WilsonImmunologyLab/HTOreader):  hybrid single cell demultiplexing strategy that increases both cell recovery rate and calling accuracy. <br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
-<img src="../../img/vgenes.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [VGenes](https://wilsonimmunologylab.github.io/VGenes/): an integrated graphical tool for efficient, comprehensive and multimodal analyses of massive B-cell repertoire sequences.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
-<img src="../../img/librator.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Librator](https://wilsonimmunologylab.github.io/Librator/): a platform for optimized sequence editing, design, and expression of influenza virus proteins.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
-<img src="../../img/linklogo.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [LinQ-View](https://wilsonimmunologylab.github.io/LinQView/) is a joint single cell analysis strategy that could integrate information from both transcriptome and surface protein markers for cell heterogeneity identification. <br> &nbsp; &nbsp;  <br> 
-<img src="../../img/workflow.png" align="left" height="80px" width="80px" style="margin-right: 20px; margin-bottom: 20px;">  [Cookie](https://wilsonimmunologylab.github.io/Cookie/): Selecting representative samples from single cell atlas using k-medoids clustering.<br> &nbsp; &nbsp; <br> &nbsp; &nbsp; <br> 
+
 
 [![Page Views Count](https://badges.toozhao.com/badges/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ/green.svg)](https://badges.toozhao.com/stats/01FCTPWJHBAA7H2Y0Z2MQ8B7PJ "Get your own page views count badge on badges.toozhao.com")
