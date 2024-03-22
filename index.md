@@ -18,8 +18,6 @@ cover-img:
 08/2022 – Present 		<br>
 **Biostatistician**, **St. Jude Children's Research Hospital, Memphis, TN**
 
-<img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-
 <img src="../../img/cchmc.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 07/2020 – 03/2022 		<br>
 **Research assistant**,**Cincinnati Children's Hospital Medical Center, Cincinnati, OH**
