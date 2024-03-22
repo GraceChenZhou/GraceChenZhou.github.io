@@ -53,7 +53,7 @@ cover-img:
 **Ph.D.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
-<img src="../../img/utd.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/utd.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 **University of Texas at Dallas**, Dallas, TX, 2011 - 2013 <br>
 **M.S.** 
 _Statistics_	<br>&nbsp; &nbsp; 
