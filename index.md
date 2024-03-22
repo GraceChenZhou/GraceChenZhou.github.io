@@ -22,7 +22,7 @@ cover-img:
 07/2020 – 03/2022 		<br>
 **Research assistant**,**Cincinnati Children's Hospital Medical Center, Cincinnati, OH**
 
-<img src="../../img/p&g.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/pg.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 05/2017 – 06/2020 		<br>
 **Data Informatics Intern**, **P&G, Cincinnati, OH**
 
@@ -48,12 +48,12 @@ cover-img:
 
 ## EDUCATION
 
-<img src="../../img/uc.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/UC.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 **University of Cincinnati**, Cincinnati, OH, 2016 - 2022 <br>
 **Ph.D.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
-<img src="../../img/utd.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/utd.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 **University of Texas at Dallas**, Dallas, TX, 2011 - 2013 <br>
 **M.S.** 
 _Statistics_	<br>&nbsp; &nbsp; 
