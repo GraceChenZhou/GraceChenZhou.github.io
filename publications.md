@@ -17,7 +17,7 @@ Meng Hu, Christina Kackos, Balaji Banoth, Chet Raj Ojha, Jeremy C. Jones, Shaohu
 Siriruk Changrob, Peter J. Halfmann, Hejun Liu, Jonathan L. Torres, Joshua J.C. McGrath, Gabriel Ozorowski, **Lei Li**, G. Dewey Wilbanks, Makoto Kuroda, Tadashi Maemura, Min Huang, Nai-Ying Zheng, Hannah L. Turner, Steven A. Erickson, Yanbin Fu, Atsuhiro Yasuhara, Gagandeep Singh, Brian Monahan, Jacob Mauldin, Komal Srivastava, Viviana Simon, Florian Krammer, D. Noah Sather, Andrew B Ward, Ian A. Wilson, Yoshihiro Kawaoka, Patrick C. Wilson. *Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody to antigenically distinct Omicron subvariants* **_Journal of Clinical Investigation_** (2023) DOI: 10.1172/JCI166844 [JCI](https://doi.org/10.1172/JCI166844)
 
 ## 2022
-<img src="../../img/journal-article.png" height="20px"> Thomas Boat, Elizabeth Hente, William Hardie, Rhonda Szczesniak, Emrah Gecili, **Grace C. Zhou**, Jacqueline Taylor, Raouf Amin. *Body composition and functional correlates of CF youth experiencing pulmonary exacerbation and recovery*. **_Pediatric Pulmonology_** (2022) p.457-464. DOI:10.1002/ppul.26207 [Pediatric Pulmonology] (https://onlinelibrary.wiley.com/doi/10.1002/ppul.26207)
+<img src="../../img/journal-article.png" height="20px"> Thomas Boat, Elizabeth Hente, William Hardie, Rhonda Szczesniak, Emrah Gecili, **Grace C. Zhou**, Jacqueline Taylor, Raouf Amin. *Body composition and functional correlates of CF youth experiencing pulmonary exacerbation and recovery*. **_Pediatric Pulmonology_** (2022) p.457-464. DOI:10.1002/ppul.26207 [Pediatric Pulmonology](https://onlinelibrary.wiley.com/doi/10.1002/ppul.26207)
 
 
 
