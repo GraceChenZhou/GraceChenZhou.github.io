@@ -3,22 +3,24 @@ layout: page
 title: Publications
 ---
 
+## 2024
+
+<img src="../../img/journal-article.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
+**Zhou, G.C.**, Wang, Z., Palipana, A.K. et al. Predicting lung function decline in cystic fibrosis: the impact of initiating ivacaftor therapy. Respir Res 25, 187 (2024). [DOI: 10.1186/s12931-024-02794-2](https://doi.org/10.1186/s12931-024-02794-2)
+
+
 ## 2023
-<img src="../../img/PRE-PRINT.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
-**#Lei Li**, #Jiayi Sun, #Yanbin Fu, Siriruk Changrob, Joshua J.C. McGrath, Patrick Wilson. *A hybrid single-cell demultiplexing strategy that increases both cell recovery rate and calling accuracy* **_bioRxiv_** (2023) doi: https://doi.org/10.1101/2023.04.02.535299 [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.02.535299v1)
+<img src="../../img/journal-article.png" height="20px"> Thomas Boat, Elizabeth Hente, William Hardie, Rhonda Szczesniak, Emrah Gecili, **Grace C. Zhou**, Jacqueline Taylor, Raouf Amin. *Body composition and functional correlates of CF youth experiencing pulmonary exacerbation and recovery*. **_Pediatric Pulmonology_** (2023) p.457-464. DOI:10.1002/ppul.26207 [Pediatric Pulmonology](https://onlinelibrary.wiley.com/doi/10.1002/ppul.26207)
+
+<img src="../../img/journal-article.png" height="20px"><img src="../../img/ystar.png" height="20px"> 
+**Zhou GC**, Song S, Szczesniak RD. Multilevel joint model of longitudinal continuous and binary outcomes for hierarchically structured data. Statistics in Medicine. 2023; 42(17): 2914–2927. [doi: 10.1002/sim.9758](https://doi.org/10.1002/sim.9758)
 
 <img src="../../img/journal-article.png" height="20px"> 
-Meng Hu, Christina Kackos, Balaji Banoth, Chet Raj Ojha, Jeremy C. Jones, Shaohua Lei, **Lei Li**, Lisa Kercher, Richard J. Webby, Charles J. Russel. *Hemagglutinin destabilizationin H3N2 vaccine reference viruses skews antigenicity and prevents airborne transmission in ferrets* **_Science Advances_** (2023) [Science Advances](https://www.science.org/doi/full/10.1126/sciadv.adf5182)
-
-<img src="../../img/journal-article.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
-#Jenna Guthmiller, #Linda Yu-Ling Lan, **#Lei Li**, Carole Henry, Christopher Stamper, Henry Utset, Alec Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley Dugan, Micah Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin Palm, Dustin Shaw, Madhumanthi Loganathan, Benjamin Francis, Mia McNair, Philip Mead, Ian Wilson, Adolfo Garcia-Sastre, Raffael Nachbagauer, Peter Palese, Andrew Ward, Lynda Coughlan, Florian Krammer, Patrick Wilson. *B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins* **_Pre-print_**(2023) [Research Square](https://assets.researchsquare.com/files/rs-2600472/v1/f47ebda1dc2bf835ef12ab60.pdf?c=1677565923)
+Emrah Gecili, Cole Brokamp, Erika Rasnick, Pedro M. Afonso, Eleni-Rosalina Andrinopoulou, Judith W. Dexheimer, John P. Clancy, Ruth H. Keogh, Yizhao Ni, Anushka Palipana, Teresa Pestian, Andrew Vancil, **Grace C. Zhou**, Weiji Su, Christopher Siracusa, Patrick Ryan, Rhonda D. Szczesniak. Built environment factors predictive of early rapid lung function decline in cystic fibrosis. Pediatric Pulmonology. 2023; 58: 1501-1513. [doi:10.1002/ppul.26352] (https://doi.org/10.1002/ppul.26352) 
 
 <img src="../../img/journal-article.png" height="20px"> 
-Siriruk Changrob, Peter J. Halfmann, Hejun Liu, Jonathan L. Torres, Joshua J.C. McGrath, Gabriel Ozorowski, **Lei Li**, G. Dewey Wilbanks, Makoto Kuroda, Tadashi Maemura, Min Huang, Nai-Ying Zheng, Hannah L. Turner, Steven A. Erickson, Yanbin Fu, Atsuhiro Yasuhara, Gagandeep Singh, Brian Monahan, Jacob Mauldin, Komal Srivastava, Viviana Simon, Florian Krammer, D. Noah Sather, Andrew B Ward, Ian A. Wilson, Yoshihiro Kawaoka, Patrick C. Wilson. *Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody to antigenically distinct Omicron subvariants* **_Journal of Clinical Investigation_** (2023) DOI: 10.1172/JCI166844 [JCI](https://doi.org/10.1172/JCI166844)
 
-## 2022
-<img src="../../img/journal-article.png" height="20px"> Thomas Boat, Elizabeth Hente, William Hardie, Rhonda Szczesniak, Emrah Gecili, **Grace C. Zhou**, Jacqueline Taylor, Raouf Amin. *Body composition and functional correlates of CF youth experiencing pulmonary exacerbation and recovery*. **_Pediatric Pulmonology_** (2022) p.457-464. DOI:10.1002/ppul.26207 [Pediatric Pulmonology](https://onlinelibrary.wiley.com/doi/10.1002/ppul.26207)
-
+Szczesniak, Rhonda and Andrinopoulou, Eleni-Rosalina and Su, Weiji and Afonso, Pedro M. and Burgel, Pierre-R\'{e}gis and Cromwell, Elizabeth and Gecili, Emrah and Ghulam, Enas and Goss, Christopher H. and Mayer-Hamblett, Nicole and Keogh, Ruth H. and Liou, Theodore G. and Marshall, Bruce and Morgan, Wayne J. and Ostrenga, Joshua S. and Pasta, David J. and Stanojevic, Sanja and Wainwright, Claire and **Zhou, Grace C.** and Fernandez, Gabriela and Fink, Aliza K. and Schechter, Michael S. Lung Function Decline in Cystic Fibrosis: Impact of Data Availability and Modeling Strategies on Clinical Interpretations. Annals of the American Thoracic Society. 2023; 20(7):958-968. [doi:10.1513/AnnalsATS.202209-829OC](doi:10.1513/AnnalsATS.202209-829OC)
 
 
 
