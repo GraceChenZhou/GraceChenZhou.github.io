@@ -60,7 +60,7 @@ _Statistics_	<br>&nbsp; &nbsp;
 
 <img src="../../img/liaodong.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 **Eastern Liaoning University**, Dandong, China, 2007 - 2011 <br>
-**M.S.** 
+**B.S.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
 ## CONTACT
@@ -74,4 +74,4 @@ USA
 Email: grace.zhou[at]stjude.org
 ```
 
-[![Page Views Count](https://badges.toozhao.com/badges/01HSJ2AZ52J11R9S074KV8B96M/orange.svg)](https://badges.toozhao.com/stats/01HSJ2AZ52J11R9S074KV8B96M "Get your own page views count badge on badges.toozhao.com")
+#[![Page Views Count](https://badges.toozhao.com/badges/01HSJ2AZ52J11R9S074KV8B96M/orange.svg)](https://badges.toozhao.com/stats/01HSJ2AZ52J11R9S074KV8B96M "Get your own page views count badge on badges.toozhao.com")
