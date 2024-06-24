@@ -48,7 +48,7 @@ cover-img:
 
 ## EDUCATION
 
-<img src="../../img/University_of_Cincinnati_seal.svg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
+<img src="../../img/UC2.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 **University of Cincinnati**, Cincinnati, OH, 2016 - 2022 <br>
 **Ph.D.** 
 _Statistics_	<br>&nbsp; &nbsp; 
