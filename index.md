@@ -74,4 +74,3 @@ USA
 Email: grace.zhou[at]stjude.org
 ```
 
-#[![Page Views Count](https://badges.toozhao.com/badges/01HSJ2AZ52J11R9S074KV8B96M/orange.svg)](https://badges.toozhao.com/stats/01HSJ2AZ52J11R9S074KV8B96M "Get your own page views count badge on badges.toozhao.com")
