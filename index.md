@@ -16,15 +16,15 @@ cover-img:
 ## PROFESSIONAL EXPERIENCE
 <img src="../../img/StJude.jpeg" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 08/2022 – Present 		<br>
-**Biostatistician**, **St. Jude Children's Research Hospital, Memphis, TN**
+**Biostatistician**, **St. Jude Children's Research Hospital, Memphis, TN, USA**
 
 <img src="../../img/cchmc.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 07/2020 – 09/2021 		<br>
-**Research assistant**,**Cincinnati Children's Hospital Medical Center, Cincinnati, OH**
+**Research assistant**,**Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA**
 
 <img src="../../img/pg.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 05/2017 – 06/2020 		<br>
-**Data Informatics Intern**, **P&G, Cincinnati, OH**
+**Data Informatics Intern**, **P&G, Cincinnati, OH, USA**
 
 <img src="../../img/parexel.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 03/2015 – 06/2016 	<br>
@@ -32,11 +32,11 @@ cover-img:
 
 <img src="../../img/medpace.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 05/2014 – 12/2014 	<br>
-**Statistical Analyst**, **Medpace, Cincinnati, OH**
+**Statistical Analyst**, **Medpace, Cincinnati, OH, USA**
 
 <img src="../../img/southwest.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 09/2012 - 12/2012 	<br>
-**Projects & Reporting Intern**, **Southwest Airlines, Dallas, TX**	<br>&nbsp; &nbsp; 
+**Projects & Reporting Intern**, **Southwest Airlines, Dallas, TX, USA**	<br>&nbsp; &nbsp; 
 
 ## RESEARCH INTERESTS
 - Bayesian statistics
