@@ -19,7 +19,7 @@ cover-img:
 **Biostatistician**, **St. Jude Children's Research Hospital, Memphis, TN**
 
 <img src="../../img/cchmc.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-07/2020 – 03/2022 		<br>
+07/2020 – 09/2021 		<br>
 **Research assistant**,**Cincinnati Children's Hospital Medical Center, Cincinnati, OH**
 
 <img src="../../img/pg.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
@@ -73,7 +73,5 @@ USA
 
 Email: grace.zhou[at]stjude.org
 ```
-
-
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HSJ2AZ52J11R9S074KV8B96M/orange.svg)](https://badges.toozhao.com/stats/01HSJ2AZ52J11R9S074KV8B96M "Get your own page views count badge on badges.toozhao.com")
