@@ -49,17 +49,17 @@ cover-img:
 ## EDUCATION
 
 <img src="../../img/UC2.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**University of Cincinnati**, Cincinnati, OH, 2016 - 2022 <br>
+**University of Cincinnati**, Cincinnati, OH, USA, 2016 - 2022 <br>
 **Ph.D.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
 <img src="../../img/utd.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**University of Texas at Dallas**, Dallas, TX, 2011 - 2013 <br>
+**University of Texas at Dallas**, Dallas, TX, USA, 2011 - 2013 <br>
 **M.S.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
 <img src="../../img/liaodong.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Eastern Liaoning University**, Dandong, China, 2007 - 2011 <br>
+**Eastern Liaoning University**, Dandong, Lianoning, China, 2007 - 2011 <br>
 **B.S.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
