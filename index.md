@@ -66,11 +66,13 @@ _Statistics_	<br>&nbsp; &nbsp;
 ## CONTACT
 
 ```
-Advanced Research Center - St. Jude Children's Research Hospital
+St. Jude Children's Research Hospital-Department of Biostatistics
 262 Danny Thomas Place
 Memphis, TN, 38105
 USA
 
 Email: grace.zhou[at]stjude.org
+Office: 901-595-4648
+Mail Stop: 723
 ```
 
