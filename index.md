@@ -58,11 +58,6 @@ _Statistics_	<br>&nbsp; &nbsp;
 **M.S.** 
 _Statistics_	<br>&nbsp; &nbsp; 
 
-<img src="../../img/liaodong.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
-**Eastern Liaoning University**, Dandong, Lianoning, China, 2007 - 2011 <br>
-**B.S.** 
-_Statistics_	<br>&nbsp; &nbsp; 
-
 ## CONTACT
 
 ```
