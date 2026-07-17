@@ -12,6 +12,15 @@ cover-img:
   margin-top: 0;
   font-size: 3.125rem;
 }
+
+/* Add this to make the profile avatar larger */
+.intro-header .avatar-img {
+  width: 150px;       /* Default is usually around 100px */
+  height: 150px;      /* Keep these values identical to preserve the circle shape */
+  max-width: 150px;
+  max-height: 150px;
+}
+
 </style>
 
 ## PROFESSIONAL EXPERIENCE
