@@ -14,10 +14,10 @@ cover-img:
 }
 
 .intro-header .avatar-img {
-  width: 150px;
-  height: 150px;
-  max-width: 150px;
-  max-height: 150px;
+  width: 180px;
+  height: 180px;
+  max-width: 200px;
+  max-height: 200px;
   border-radius: 50%;   /* Makes it a circle */
   object-fit: cover;    /* Prevents the photo from stretching or compressing */
 }
