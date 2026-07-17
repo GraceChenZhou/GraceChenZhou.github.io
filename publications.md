@@ -3,6 +3,12 @@ layout: page
 title: Publications
 ---
 
+## 2026
+
+<img src="../../img/journal-article.png" height="20px"> Ramsey DC, Shulman DS, **Zhou GC**, et al. Long-term outcomes of evolving treatment regimens in Ewing sarcoma survivors diagnosed 1970–1999: a report from the Childhood Cancer Survivor Study. Cancer. 2026;e70504. doi:10.1002/cncr.70504
+
+<img src="../../img/journal-article.png" height="20px"> Suwannaying K, **Zhou GC**, Lertvivatpong N, Neupane A, Petrykey K, Yoshida T, Baedke JL, Rujkijyanont P, Wilson CL, Dixon SB, Delaney A, Sapkota Y, Kaste SC, Armstrong GT, Pui C-H, Hudson MM, Srivastava D, Ness KK, Inaba H. Body mass index during and early after therapy for pediatric acute lymphoblastic leukemia is associated with obesity in survivors. Haematologica. 2026; https://doi.org/10.3324/haematol.2025.288529 [Early view].
+
 ## 2025
 
 <img src="../../img/journal-article.png" height="20px"> Afonso PM, **Zhou GC**, Su W, Burgel PR, Cromwell E, Goss CH, Keogh RH, Liou TG, Marshall BC, Mayer-
