@@ -2,6 +2,7 @@
 layout: page
 title:  Grace Chen Zhou - Biostatistician
 subtitle: Department of Biostatistics, <br> St. Jude Children's Research Hospital
+avatar: "./img/GZ.jpg"
 cover-img:
   - "./img/zoom-bgs-campus-sequins-mural2.jpg"
 ---
@@ -32,7 +33,7 @@ cover-img:
 
 <img src="../../img/medpace.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 05/2014 – 12/2014 	<br>
-**Statistical Analyst**, **Medpace, Cincinnati, OH, USA**
+**Statistical Analyst**, **Medpace Holdings, Inc, Cincinnati, OH, USA**
 
 <img src="../../img/southwest.png" align="left" height="80px" width="80px" style="margin-right: 20px;"> 
 09/2012 - 12/2012 	<br>
