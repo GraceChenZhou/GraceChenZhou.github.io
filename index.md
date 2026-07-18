@@ -13,13 +13,14 @@ cover-img:
   font-size: 3.125rem;
 }
 
+/* Custom rules to make the avatar larger and perfectly circular */
 .intro-header .avatar-img {
-  width: 180px;
-  height: 180px;
-  max-width: 200px;
-  max-height: 200px;
-  border-radius: 50%;   /* Makes it a circle */
-  object-fit: cover;    /* Prevents the photo from stretching or compressing */
+  width: 160px !important;
+  height: 160px !important;
+  max-width: 160px !important;
+  max-height: 160px !important;
+  border-radius: 50% !important;   /* Forces the true circle shape */
+  object-fit: cover !important;    /* Crops the landscape image perfectly to fit the circle */
 }
 
 </style>
