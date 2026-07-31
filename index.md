@@ -57,25 +57,25 @@ cover-img:
 - Joint modelling of longitudinal and survival data
 - Data interpretation & visualization (R markdown, R shiny)
 
-##HONORS & AWARDS
+## HONORS & AWARDS
 
-- Featured in the ABDS Newsletter (Teaching Spotlight), St. Jude Graduate School, Memphis, TN, February 2026. [Featured for contributions to the MS Applied Biomedical Data Science program and excellence in teaching](https://sjcrh.sharepoint.com/sites/Team-ABDSSite2/SitePages/Bytes-to-Birthdays-February%202026.aspx?from=SendByEmail&e=BSnfRDyZ70ykUGm_lYn4Wg&at=121&CT=1771258629185&OR=OWA-NT-Mail&CID=ccd7a9bf-219e-a9a6-81e0-d71c6d7a5537). 
+- **Featured in the ABDS Newsletter (Teaching Spotlight)**, St. Jude Graduate School, Memphis, TN, February 2026. [Featured for contributions to the MS Applied Biomedical Data Science program and excellence in teaching](https://sjcrh.sharepoint.com/sites/Team-ABDSSite2/SitePages/Bytes-to-Birthdays-February%202026.aspx?from=SendByEmail&e=BSnfRDyZ70ykUGm_lYn4Wg&at=121&CT=1771258629185&OR=OWA-NT-Mail&CID=ccd7a9bf-219e-a9a6-81e0-d71c6d7a5537). 
 
-- Employee of the Month & Ovation Bronze Award, Department of Biostatistics, St. Jude Children's Research Hospital, Memphis, TN, March 2026.
+- **Employee of the Month & Ovation Bronze Award**, Department of Biostatistics, St. Jude Children's Research Hospital, Memphis, TN, March 2026.
 
-- Ovation Silver Award, Biostatistics Shared Resource Office Hour, St. Jude Children's Research Hospital, Memphis, TN, February 2025.
+- **Ovation Silver Award**, Biostatistics Shared Resource Office Hour, St. Jude Children's Research Hospital, Memphis, TN, February 2025.
 
-- Research Featured in Physician's Weekly, May 2024.
+- **Research Featured in Physician's Weekly**, May 2024.
 
-	- [Ivacaftor Therapy in Cystic Fibrosis: Predicting Lung Function Decline] (https://www.physiciansweekly.com/post/ivacaftor-therapy-in-cystic-fibrosis-predicting-lung-function-decline)
+	- [Ivacaftor Therapy in Cystic Fibrosis: Predicting Lung Function Decline](https://www.physiciansweekly.com/post/ivacaftor-therapy-in-cystic-fibrosis-predicting-lung-function-decline)
 
-- Graduate Student Government Research Fellowship Award, University of Cincinnati, Cincinnati, OH, March 2022.
+- **Graduate Student Government Research Fellowship Award**, University of Cincinnati, Cincinnati, OH, March 2022.
 
-- Graduate Assistant Scholarship, University of Cincinnati, Cincinnati, OH, August 2016 – June 2022.
+- **Graduate Assistant Scholarship**, University of Cincinnati, Cincinnati, OH, August 2016 – June 2022.
 
-- Alumni Scholarship, University of Texas at Dallas, Richardson, TX, August 2012 – June 2013.
+- **Alumni Scholarship**, University of Texas at Dallas, Richardson, TX, August 2012 – June 2013.
 
-- Chinese National Excellence Scholarship, Ministry of Education of China, September 2009 – August 2010.
+- **Chinese National Excellence Scholarship**, Ministry of Education of China, September 2009 – August 2010.
 
 
 ## EDUCATION
